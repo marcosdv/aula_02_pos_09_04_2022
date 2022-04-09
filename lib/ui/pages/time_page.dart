@@ -10,14 +10,14 @@ class TimePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(dados["Tim_Nome"]),
+        title: Text(dados['Tim_Nome']),
         centerTitle: true,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Imagem(dados["Tim_Bandeira"].toString()
-              .replaceAll("~/", "http://controle.mdvsistemas.com.br/")),
+          Imagem(dados['Tim_Bandeira'].toString()
+              .replaceAll('~/', 'http://controle.mdvsistemas.com.br/')),
         ],
       ),
     );

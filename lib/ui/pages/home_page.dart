@@ -13,7 +13,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   Future<List<dynamic>> _getLista() async {
-    String link = "http://controle.mdvsistemas.com.br/Esportes/Times/GetTime";
+    String link = 'http://controle.mdvsistemas.com.br/Esportes/Times/GetTime';
     var response = await http.get(Uri.parse(link));
     return json.decode(response.body);
   }
