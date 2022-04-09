@@ -1,23 +1,23 @@
+import 'package:aula_02_pos/models/models.dart';
 import 'package:aula_02_pos/ui/components/imagem.dart';
 import 'package:flutter/material.dart';
 
 class TimePage extends StatelessWidget {
-  final Map<String, dynamic> dados;
+  final Time time;
 
-  const TimePage(this.dados, {Key? key}) : super(key: key);
+  const TimePage(this.time, {Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(dados['Tim_Nome']),
+        title: Text(time.nome),
         centerTitle: true,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Imagem(dados['Tim_Bandeira'].toString()
-              .replaceAll('~/', 'http://controle.mdvsistemas.com.br/')),
+          Imagem(time.logo),
         ],
       ),
     );
