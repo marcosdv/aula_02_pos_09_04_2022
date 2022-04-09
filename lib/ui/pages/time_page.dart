@@ -1,4 +1,4 @@
-import 'package:aula_02_pos/ui/components/Imagem.dart';
+import 'package:aula_02_pos/ui/components/imagem.dart';
 import 'package:flutter/material.dart';
 
 class TimePage extends StatelessWidget {

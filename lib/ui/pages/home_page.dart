@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:aula_02_pos/ui/components/Imagem.dart';
+import 'package:aula_02_pos/ui/components/imagem.dart';
 import 'package:aula_02_pos/ui/pages/time_page.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
