@@ -9,8 +9,8 @@
 
 - [x] Consumindo uma Web API JSON
 - [x] Utilizando o ListView.Builder
-- [x] Utilizando a package HTTP
 - [x] Instalando packages no pubspec.yaml
+- [x] Utilizando a package HTTP
 - [x] Carregando imagens da web
 - [ ] Refatorando o código
 - [ ] Classes Model
