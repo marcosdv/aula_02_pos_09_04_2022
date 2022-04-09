@@ -1,16 +1,27 @@
-# aula_02_pos
+# Pós-Graduação em Desenvolvimento de Aplicações Web e Mobile
+## Aula 02 - 09-04-2022 - API Web
 
-aula_02_pos
+![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Flutter-blue)
 
-## Getting Started
+### Aula 01 ministrada no dia 09/04/2022 para a turma de Pós-Graduação em Desenvolvimento de Aplicações Web e Mobile - Toledo.
 
-This project is a starting point for a Flutter application.
+### Conteúdo
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Consumindo uma Web API JSON
+- [x] Utilizando o ListView.Builder
+- [x] Utilizando a package HTTP
+- [x] Instalando packages no pubspec.yaml
+- [x] Carregando imagens da web
+- [ ] Refatorando o código
+- [ ] Classes Model
+- [ ] Classes para datasource remote
+- [ ] Classe generica para HTTP
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+- [Android Studio](https://developer.android.com/studio)
+- [Dart Packages](https://pub.dev/)
