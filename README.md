@@ -3,7 +3,7 @@
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Flutter-blue)
 
-### Aula 01 ministrada no dia 09/04/2022 para a turma de Pós-Graduação em Desenvolvimento de Aplicações Web e Mobile - Toledo.
+### Aula 02 ministrada no dia 09/04/2022 para a turma de Pós-Graduação em Desenvolvimento de Aplicações Web e Mobile - Toledo.
 
 ### Conteúdo
 
