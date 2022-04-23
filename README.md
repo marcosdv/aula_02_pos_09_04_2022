@@ -12,10 +12,10 @@
 - [x] Instalando packages no pubspec.yaml
 - [x] Utilizando a package HTTP
 - [x] Carregando imagens da web
-- [ ] Refatorando o código
-- [ ] Classes Model
-- [ ] Classes para datasource remote
-- [ ] Classe generica para HTTP
+- [x] Refatorando o código
+- [x] Classes Model
+- [x] Classes para datasource remote
+- [x] Classe generica para HTTP
 
 
 ### Tecnologias
